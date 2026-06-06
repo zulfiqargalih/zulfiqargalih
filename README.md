@@ -83,12 +83,6 @@ const zulfiqar = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zulfiqargalih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfiqargalih&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=zulfiqargalih&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
