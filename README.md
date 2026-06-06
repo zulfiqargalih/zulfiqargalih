@@ -4,10 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d76bf&height=200&section=header&text=Hi%20There!%20I'm%20Zulfiqar%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=💻+Beginner+Full+Stack+Developer;🌱+Learning+TypeScript+%26+Node.js;🚀+Building+Cool+Projects;📚+Always+Hungry+to+Learn+More" alt="Typing SVG" />
-</a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Beginner+Full+Stack+Developer;Learning+TypeScript+and+Node.js;Building+Cool+Projects;Always+Hungry+to+Learn+More" alt="Typing SVG" /></a>
 <br/>
 
 <!-- Profile Views & Social -->
